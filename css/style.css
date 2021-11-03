@@ -1,0 +1,32 @@
+.canavs {
+width: 800px;
+height: 1000px;
+background: white;
+background-image: url(https://phonoteka.org/uploads/posts/2021-07/1625228852_31-phonoteka-org-p-oboi-belogo-tsveta-na-rabochii-stol-oboi-k-31.jpg);
+}
+
+.a {
+	position: absolute;
+	margin-top: 250px;
+}
+
+.img-1 {
+	position: relative;
+	left: 10px;
+	bottom: -5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.img-2 {
+	position: relative;
+	left: 10px;
+}
+
+.img-3 {
+	position: relative;
+	left: 835px;
+	bottom: 715px;
+	} 
